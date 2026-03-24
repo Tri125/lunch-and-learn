@@ -1,0 +1,4 @@
+packages:
+  - 'slidev/*'
+allowBuilds:
+  esbuild: true
