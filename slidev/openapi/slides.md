@@ -228,7 +228,7 @@ level: 2
 <a href="https://petstore.swagger.io/" v-click>En fait, ceci n'est pas un Swagger</a>
 
 <p v-click>
-  C'est un <u>site de documentation</u> généré à partir d'un outil 'swagger-ui' en lui donnant un <strong>document de spécification OpenAPI</strong>.
+  C'est un <u>site de documentation</u> généré à partir d'un outil 'swagger-ui' en le nourrissant d'un <strong>document de spécification OpenAPI</strong>.
 </p>
 
 <p v-click>
