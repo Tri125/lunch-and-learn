@@ -25,7 +25,7 @@ transition: fade-out
 - **Documentation auto-généré**
      - Le truc qu'on appel 'Swagger' à tord en est un example.
 - **Génération de code client (aussi appelé SDK)**
-     - Il devient trivial de s'intégrer à l'API en question
+     - Intégration sans effort
      - C'est tout aussi trivial de ce tenir à jour avec l'évolution de l'API
 - **Génération de code serveur**
      - Et oui, ce n'est pas juste pour les consommateurs d'API
