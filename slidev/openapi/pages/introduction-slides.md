@@ -12,7 +12,7 @@ Avant OpenAPI, il y avait Swagger.
 - Source majeure de frustration: **manque d'automatisation**
      - Documentation d'API
      - Génération de *client SDK*
-- Il commence à travailler sur une structure de donnée permettant de décrire les **API HTTP**.
+- Il commence à travailler sur une structure de données permettant de décrire les **API HTTP**.
 <br>
 <br>
 
@@ -47,7 +47,7 @@ level: 2
 | 1.1              | 2012-08-22     | Swagger 1.1 |
 | 1.2              | 2014-09-08     | Première release formelle |
 | 2.0 | 2014-09-08    | Swagger 2.0 |
-| Acquisition par *SmartBear Software* | 2015-03     | SmartBear acquière Swagger |
+| Acquisition par *SmartBear Software* | 2015-03     | SmartBear acquiert Swagger |
 | Initiative OpenAPI (OAI) | 2015-11     | SmartBear fait le don de la spécification à l'initiative OpenAPI |
 
 <!--
@@ -124,11 +124,11 @@ level: 2
 # Mélangé? C'est mélangeant!
 
 <p v-click>
-  Swagger sont un (des?) produits de Smartbear utilisant la spécification OpenAPI.
+  Swagger est un ensemble de produits de SmartBear utilisant la spécification OpenAPI.
 </p>
 
 <p v-click>
-  'Swagger' est devenu un antonomase.
+  'Swagger' est devenu une antonomase.
 </p>
 
 <p v-click>
@@ -146,11 +146,7 @@ level: 2
 </p>
 
 <p v-click>
-  Dans cette présentation la distinction sera importante, mais elle ne l'est pas toujours.
-</p>
-
-<p v-click>
-  Ce qu'on va voir est que <strong>'Swagger' est bien plus qu'un site de documentation</strong>.
+  Ce qu'on va voir, c'est que <strong>'Swagger' est bien plus qu'un site de documentation</strong>.
 </p>
 
 <style>

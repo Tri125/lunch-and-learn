@@ -72,4 +72,4 @@ Composantes clés
 - **Les opérations (GET, POST, etc.)**
 - **Les paramètres et les corps de requêtes**
 - **Les réponses**
-- **L'authentication**
+- **L'authentification**
